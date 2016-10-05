@@ -163,7 +163,7 @@ services:
         volumes_from:
             - volumes_data
         ports:
-            - "6379:6379"
+            - "6380:6379"
 
 ### Aerospike c Container #########################################
 
